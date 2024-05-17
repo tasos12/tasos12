@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on [CERTH - M4D Group](https://m4d.iti.gr/)
-- 🌱 I’m currently learning Java Spring and a variety of frontend libraries
+- 🌱 I’m currently refining my skills
 - 📫 Reach me through social media or mail for any amazing ideas you have.
 - ⚡ Feel free to check out my work (https://www.tasosgkagkas.com/) 
 
